@@ -55,38 +55,16 @@ hobbies: ["Coding", "Reading Tech Blogs", "Music", "Problem Solving"]
 
 ### 🎼 我的音乐偏好
 
-```yaml
-favorite_genres:
-  - "流行音乐"
-  - "轻音乐"
-  - "电子音乐"
-  - "古典音乐"
-  - "民谣"
-
 favorite_artists:
-  - "周杰伦"
-  - "林俊杰"
-  - "Taylor Swift"
-  - "Ed Sheeran"
-  - "Coldplay"
 
 current_mood: "🎵 编程时听轻音乐，休息时听流行音乐"
 music_time: "每天 2-3 小时"
-playlist_count: "50+ 个精选歌单"
 ```
 
 ### 🎤 我的音乐小故事
 
 > 💭 *"音乐是我编程时的最佳伴侣，轻音乐帮助我专注，流行音乐让我放松心情。每一行代码都伴随着旋律的节奏！"*
 
-### 🎹 音乐与编程的完美结合
-
-| 编程场景 | 推荐音乐类型 | 推荐歌单 |
-|---------|-------------|----------|
-| 专注编码 | 🎼 轻音乐/纯音乐 | 编程专注歌单 |
-| 调试代码 | 🎵 流行音乐 | 轻松流行歌单 |
-| 学习新技术 | 🎶 古典音乐 | 古典音乐精选 |
-| 项目完成 | 🎉 电子音乐 | 庆祝时刻歌单 |
 
 ### 🎼 音乐推荐
 
@@ -95,21 +73,7 @@ playlist_count: "50+ 个精选歌单"
 ---
 
 *"Life is better with music" 🎶*
-
-## 🎮 玩个小游戏：Tic-Tac-Toe
-
-<iframe src="https://codepen.io/gaearon/full/gWWZgR" width="300" height="300" frameborder="0"></iframe>
-
-
-
-## 🚀 最近的项目
-
-<a href="https://github.com/ZJ331456/awesome-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJ331456&repo=awesome-project-1&theme=gruvbox" />
-</a>
-<a href="https://github.com/ZJ331456/awesome-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZJ331456&repo=awesome-project-2&theme=gruvbox" />
-</a>
+---
 
 ## 📈 我的编程语言使用情况
 
@@ -117,10 +81,9 @@ playlist_count: "50+ 个精选歌单"
 
 ## 🎯 我的目标
 
-- [ ] 掌握机器学习算法
-- [ ] 开发一个完整的Web应用
+- [ ] 掌握更多的大模型算法
+- [ ] 开发一个完整的视频理解应用项目
 - [ ] 贡献开源项目
-- [ ] 学习云原生技术
 - [ ] 写技术博客分享经验
 
 ## 💡 有趣的事实
