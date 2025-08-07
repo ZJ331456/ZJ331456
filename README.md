@@ -33,5 +33,5 @@
 
 ## 🎮 玩个小游戏：Tic-Tac-Toe
 
-<iframe src="https://ahfarmer.github.io/tic-tac-toe/" width="300" height="300"></iframe>
+<iframe src="https://codepen.io/gaearon/full/gWWZgR" width="300" height="300" frameborder="0"></iframe>
 
