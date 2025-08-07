@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/ZJ331456/ZJ331456/workflows/wakatime-stats/badge.svg)](https://github.com/ZJ331456/ZJ331456/actions)
-
 <p align="center">
   <img src="https://socialify.git.ci/ZJ331456/ZJ331456/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="ZJ331456" width="700" height="300" />
 </p>
