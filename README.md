@@ -54,9 +54,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Music", "Problem Solving"]
 <img src="https://netease-recent-profile.vercel.app/?id=411007278&type=1&theme=card&title=最近在听&number=5&size=300&show_rainbow=1&mode=light" alt="Netease Cloud Recently Played" />
 
 ### 🎼 我的音乐偏好
-
-favorite_artists:
-
+```
 current_mood: "🎵 编程时听轻音乐，休息时听流行音乐"
 music_time: "每天 2-3 小时"
 ```
