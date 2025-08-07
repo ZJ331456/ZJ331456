@@ -24,4 +24,14 @@
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Add more badges -->
+
+## 🎵 最近在听 音乐（网易云）
+
+<img src="https://netease-recent-profile.vercel.app/?id=YOUR_ID&type=1&theme=card&title=最近在听&number=5&size=300&show_rainbow=1&mode=light" alt="Netease Cloud Recently Played" />
+
+---
+
+## 🎮 玩个小游戏：Tic-Tac-Toe
+
+<iframe src="https://yourusername.github.io/tic-tac-toe-game" width="300" height="300"></iframe>
+
