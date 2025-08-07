@@ -1,18 +1,27 @@
-### Hi there 👋,I'm jun.
+### Hi there 👋 I'm **Jun**
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Python.
-- 📫 How to reach me: 21156086966@qq.com
-- 😄 Read more about my CSDN: [here]([https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343](https://blog.csdn.net/qq_48460681?type=blog))
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Jun.;Python+lover+%26+Problem+solver.&center=true&width=400&height=50)
 
+- 🔭 Working on: *something cool*
+- 🌱 Learning: *everything I love*
+- 💬 Ask me about: **Python**, automation, data science
+- 📫 Contact: 21156086966@qq.com
+- 😄 CSDN Blog: [here](https://blog.csdn.net/qq_48460681)
 
-![](https://github-readme-stats.vercel.app/api?username=ZJ331456&show_icons=true&theme=transparent)
+---
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/ZJ331456/count.svg) visitor, Thank You! 😘😘
+## 🔥 Stats & Activity
 
+![](https://github-readme-stats.vercel.app/api?username=ZJ331456&show_icons=true&hide_border=true&theme=gruvbox)
 
-### My Skill Set
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZJ331456&theme=dark)
+
+![Visits](https://visitor-badge.glitch.me/badge?page_id=ZJ331456.readme)
+
+---
+
+## 🛠️ Skills
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<!-- Add more badges -->
