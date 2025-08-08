@@ -13,10 +13,6 @@
 <br>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZJ331456&theme=onedark&column=-1" />
-</p>
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZJ331456&theme=github-dark-dimmed&custom_title=Jun%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
