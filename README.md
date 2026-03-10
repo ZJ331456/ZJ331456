@@ -24,7 +24,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Music", "Problem Solving"]
 
 ---
 
-## 📊 Stats
+<!-- ## 📊 Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZJ331456&show_icons=true&hide_border=true&theme=gruvbox" />
@@ -37,7 +37,7 @@ hobbies: ["Coding", "Reading Tech Blogs", "Music", "Problem Solving"]
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZJ331456&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+--- -->
 
 ## 🛠️ Tech Stack
 
