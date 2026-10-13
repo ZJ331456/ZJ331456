@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Zhoujun&fontSize=46&fontColor=ffffff&fontAlignY=40" alt="Zhoujun" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Jun&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Jun" width="100%" />
 
-### Hi, I'm Zhoujun 👋
+### Hi, I'm Jun 👋
 
-`Jun` &nbsp;·&nbsp; `Python Developer` &nbsp;·&nbsp; `Problem Solver`
+`Python Developer` &nbsp;·&nbsp; `Problem Solver`
 
 <br />
 
