@@ -1,13 +1,18 @@
 <div align="center">
 
-```yaml
-name:                Jun
-located_in:          China
-job:                 Python Developer & Problem Solver
-fields_of_interests: ["Python", "Data Science", "Automation", "AI/ML"]
-currently_learning:  ["Machine Learning", "Deep Learning", "Cloud Computing"]
-hobbies:             ["Coding", "Reading Tech Blogs", "Music", "Problem Solving"]
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Jun&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Jun" width="100%" />
+
+### Hi, I'm Jun 👋
+
+`Python Developer` &nbsp;·&nbsp; `Problem Solver`
+
+<br />
+
+![Location](https://img.shields.io/badge/📍_China-3C4043?style=flat-square)
+![Focus](https://img.shields.io/badge/💡_Python_·_Data_Science-3776AB?style=flat-square)
+![Focus](https://img.shields.io/badge/🤖_Automation_·_AI%2FML-8A2BE2?style=flat-square)
+![Status](https://img.shields.io/badge/📚_Learning-ML_·_DL_·_Cloud-2E7D32?style=flat-square)
+![Hobbies](https://img.shields.io/badge/🎧_Coding_·_Music_·_Reading-F9A825?style=flat-square)
 
 </div>
 
